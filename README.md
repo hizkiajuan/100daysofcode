@@ -9,5 +9,5 @@
 - [Leetcode](https://leetcode.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 
-## LOG
-- [Round 001](./log/round-001.md)
+## LOGS
+- [Round 001](./logs/round-001.md)
