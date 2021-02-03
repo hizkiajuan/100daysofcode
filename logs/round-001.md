@@ -11,6 +11,8 @@
 ### Link
 - got one achievement before in [Responsive Web Design](https://www.freecodecamp.org/certification/hizkiajuan/responsive-web-design) certification
 
+---
+
 ## Day 002 - 20210202
 ### Progress
 - finish FCC's ES6 curriculum : module import/export, promise
@@ -22,4 +24,19 @@
 - Promise-thing : resolve, reject, then, catch, finally
 - `finally` will pass through any result (or error) to its next handler
 - only the first resolve/reject call that is taken into account
-### Link
+
+---
+
+## Day 003 - 20210203
+### Progress
+- continue javascript.info (5/8 topics) about Promise
+- topics : Promise chaining, error-handling, API
+### Thoughts
+- a handler in Promise (then/catch/finally) may return not exactly a Promise, but a so-called "thenable" object (an arbitrary object that has a method `.then`)
+- "thenable" object will be treated the same way as Promise
+- there is an "invisible" `try...catch` block in a Promise
+- `catch` handles `reject` as well as an Error `throw` (in a synchronous way)
+- `Promise.all` : got a `reject` in the middle, it will ignore the rest Promise(s)
+- `Promise.allSettled` : fulfill all Promise, return both sucess and error
+- `Promise.race` : return the only first _settled_ Promise (success or error)
+- `Promise.any` : return the only first _fulfilled_ Promise (success only) - if all rejected, return `AggregateError`
