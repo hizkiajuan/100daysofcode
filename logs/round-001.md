@@ -40,3 +40,15 @@
 - `Promise.allSettled` : fulfill all Promise, return both sucess and error
 - `Promise.race` : return the only first _settled_ Promise (success or error)
 - `Promise.any` : return the only first _fulfilled_ Promise (success only) - if all rejected, return `AggregateError`
+
+---
+
+## Day 004 - 20210204
+### Progress
+- will revisit javascript.info topic 6-8 about Promise later.. together with async/await (I _promise_!)
+- continue FCC about Regex : literal match, any match, (negated) character class/set, one/zero or more match, OR,  flags, lazy match, caret/sign character, (opposite) alphanumeric (_shorthand_ of character class), (non) digit match
+- stuck on [Restrict Possible Usernames](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/restrict-possible-usernames), but will try again tomorrow
+### Thoughts
+- [regex by default is _greedy_](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-characters-with-lazy-matching) (match the **longest** possible part)
+- add `?` to make it _lazy_ (match the **shortest** possible part)
+- alphanumeric match using `\w` also includes `_` character
