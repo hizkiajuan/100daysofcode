@@ -52,3 +52,13 @@
 - [regex by default is _greedy_](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/find-characters-with-lazy-matching) (match the **longest** possible part)
 - add `?` to make it _lazy_ (match the **shortest** possible part)
 - alphanumeric match using `\w` also includes `_` character
+
+---
+
+## Day 005 - 20210205
+### Progress
+- continue FCC's regex : (non) whitespace, quantity specifier (lower/upper number), check for all or none, [lookahead pattern](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/positive-and-negative-lookahead), character grouping, capture group, search+replace by capture groups
+### Thoughts
+- just discover there is a `"string".repeat(n)`
+- hard to understand : lookahead `(?=...)` and capture group `\1`
+- _capture group_ is kinda copy+paste, no?
