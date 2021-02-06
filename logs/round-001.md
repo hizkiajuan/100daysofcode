@@ -62,3 +62,14 @@
 - just discover there is a `"string".repeat(n)`
 - hard to understand : lookahead `(?=...)` and capture group `\1`
 - _capture group_ is kinda copy+paste, no?
+
+---
+
+## Day 006 - 20210206
+### Progress
+- still in FCC, but now : Debugging
+- topics covered : `console.log`, `typeof`
+- revisit loose/abstract vs strict/identity equality
+### Thoughts
+- 3 types of errors: syntax, runtime and semantic/logical error
+- OBOE : off-by-one error (e.g. access wrong index)
