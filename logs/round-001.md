@@ -73,3 +73,29 @@
 ### Thoughts
 - 3 types of errors: syntax, runtime and semantic/logical error
 - OBOE : off-by-one error (e.g. access wrong index)
+
+---
+
+## Day 007 - 20210207
+### Progress
+- off I go to FCC's OOP
+- topics covered : constructor, `new`, `instanceof`, `own` and `prototype` property, special `constructor` property, `isPrototypeOf`, `prototype` chain, `Object.create()`, _override_ inherited methods, "mixins" concept, closure, IIFE
+### Thoughts
+- keyword `this` in an `object` refer to _that_ object (firstly)
+- `constructor` has first letter uppercased, but `function` all lowercase
+- just figured out the difference of `own` and `prototype` properties
+- manually set an object `prototype` prop will **erase** its `constructor` prop, [add one each time define them!](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/remember-to-set-the-constructor-property-when-changing-the-prototype)
+- "all" JS objects have a `prototype`, which the `prototype` itself is an `object` (`Object` is _supertype_ of all JS objects -> [prototypal inheritance](https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/) (😮can't believe I wrote this - now it's just make sense)
+- use "mixins" to combine/"inherit" properties from different type of object (e.g. `fly` prop that is being used by bird & plane)
+- closure is simply a "context scope" that defines accessibility of props
+- IIFE is usually used [to create a module](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-an-iife-to-create-a-module) -> can be achieved by just creating an object, IIFE just return the value right away
+
+---
+
+## Day 008 - 20210208
+### Progress
+- move on to Functional Programming from #freeCodeCamp
+- topic covered : callbacks, first class function, higher order function, lambda, imperative vs declarative, splice vs slice, mutation, side-effect, pure function
+### Thoughts
+- in JS, all functions are first-class function
+- functional prog principle : declare your dependencies explicitly
