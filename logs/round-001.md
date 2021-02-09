@@ -99,3 +99,14 @@
 ### Thoughts
 - in JS, all functions are first-class function
 - functional prog principle : declare your dependencies explicitly
+
+---
+
+## Day 009 - 20210209
+### Progress
+- Functional Programming cont.
+- topic covered : map + filter (and how to build them manually), slice (return new arr), splice (mutate original arr), concat, reduce
+### Thoughts
+- on FCC : once solve the problem, go to Hint page to see the other POV on how to solve it
+- it's not that hard to implement our own map/filter function
+- `splice` is all about "remove and join" : remove items on given index range, then join the left & right side of arr items
