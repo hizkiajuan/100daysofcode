@@ -110,3 +110,12 @@
 - on FCC : once solve the problem, go to Hint page to see the other POV on how to solve it
 - it's not that hard to implement our own map/filter function
 - `splice` is all about "remove and join" : remove items on given index range, then join the left & right side of arr items
+
+---
+
+## Day 010 - 20210210
+### Progress
+- Function Programming cont. (last)
+- topic covered : sort, sort without mutating (use concat), split, join, every, some, currying, partial applicaiton with `bind`
+### Thoughts
+- the most eplxainable definition of currying (from FCC) : convert N-arity function into N-function of 1 arity
