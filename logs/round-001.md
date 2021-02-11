@@ -119,3 +119,14 @@
 - topic covered : sort, sort without mutating (use concat), split, join, every, some, currying, partial applicaiton with `bind`
 ### Thoughts
 - the most eplxainable definition of currying (from FCC) : convert N-arity function into N-function of 1 arity
+
+---
+
+## Day 011 - 20210211
+### Progress
+- continue FCC curriculum : Basic Data Structures
+- topic covered (1) array : push + unshift, pop + shift, splice, slice, spread operator, indexOf
+- topic covered (2) object : accessing (nested) object, bracket notation, delete, hasOwnProperty, for...in, Object.keys()
+### Thoughts
+- just realized that push/unshift can receives multiple arguments
+- \>= 3rd param of `splice` means insert to arr at front
