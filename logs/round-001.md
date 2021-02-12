@@ -130,3 +130,13 @@
 ### Thoughts
 - just realized that push/unshift can receives multiple arguments
 - \>= 3rd param of `splice` means insert to arr at front
+
+---
+
+## Day 012 - 20210212
+### Progress
+- into the Algorithms (Basic)
+- topic covered : reverse string (split/reverse/join), factorial (basic for loop), longest/largest word/number in string/array (reduce), `.endsWith()` alternative with slice, `.repeat()` alternative with `while` loop
+### Thoughts
+- watch out if returning `arr.push()` in reduce : it returns [new length of array](https://stackoverflow.com/a/41890580/6147996)
+- many string problem can be solved with convert it first to array (may not efficient tho)
