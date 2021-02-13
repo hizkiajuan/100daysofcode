@@ -140,3 +140,14 @@
 ### Thoughts
 - watch out if returning `arr.push()` in reduce : it returns [new length of array](https://stackoverflow.com/a/41890580/6147996)
 - many string problem can be solved with convert it first to array (may not efficient tho)
+
+---
+
+## Day 013 - 20210213
+### Progress
+- Algorithms (Basic) cont.
+- topic covered : array find using callback function, check if primitive boolean using typeof, replace with charAt, slice with concat, filter with boolean casting
+### Thoughts
+- Scripting section on FCC has (mostly) no clue/hint on the question so they let me think it on my own -> that's why it trains our logical thinking about algo + DS
+- [Where do I belong](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong) made my day!
+- array operation can be applied on string (indexOf, includes, etc)
