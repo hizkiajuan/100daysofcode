@@ -151,3 +151,12 @@
 - Scripting section on FCC has (mostly) no clue/hint on the question so they let me think it on my own -> that's why it trains our logical thinking about algo + DS
 - [Where do I belong](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong) made my day!
 - array operation can be applied on string (indexOf, includes, etc)
+
+---
+
+## Day 014 - 20210214
+### Progress
+- comes into Intermediate Algorithms
+- topic covered : sum all numbers in range (really [worth-to-read Hint](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-sum-all-numbers-in-a-range/16083)), diff two arrays (again, the Hint gave me another perspective)
+### Thoughts
+- it is worth to look at the Hint section once we solve the problem : learn from various POV
