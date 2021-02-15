@@ -160,3 +160,13 @@
 - topic covered : sum all numbers in range (really [worth-to-read Hint](https://forum.freecodecamp.org/t/freecodecamp-challenge-guide-sum-all-numbers-in-a-range/16083)), diff two arrays (again, the Hint gave me another perspective)
 ### Thoughts
 - it is worth to look at the Hint section once we solve the problem : learn from various POV
+
+---
+
+## Day 015 - 20210215
+### Progress
+- some urgent matters today, so I can't continue the FCC progress
+- but, I made progress on hizkiajuan.com v3.0 (hopefully it is *counted* here)
+### Thoughts
+- to start may difficult, but to continue (consistent) is more difficult
+- anyway, besides #100DaysOfCode I also commit on finishing the hizkiajuan.com v3.0 :) #KeepItUp!
