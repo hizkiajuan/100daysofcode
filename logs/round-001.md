@@ -170,3 +170,12 @@
 ### Thoughts
 - to start may difficult, but to continue (consistent) is more difficult
 - anyway, besides #100DaysOfCode I also commit on finishing the hizkiajuan.com v3.0 :) #KeepItUp!
+
+---
+
+## Day 016 - 20210216
+### Progress
+- Intermediate Algo cont. (#freeCodeCamp)
+- topic covered : combine `for loop` with `filter`, combine `filter` with `every`, _spinal_ case (regex, split, join) -> good example of _positive lookahead_ `(\s|_|(?=[A-Z]))`
+### Thoughts
+- need to be more creative and out-of-the-box thinking to solve algorithm problems -> creativity is your limit
