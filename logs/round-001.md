@@ -179,3 +179,15 @@
 - topic covered : combine `for loop` with `filter`, combine `filter` with `every`, _spinal_ case (regex, split, join) -> good example of _positive lookahead_ `(\s|_|(?=[A-Z]))`
 ### Thoughts
 - need to be more creative and out-of-the-box thinking to solve algorithm problems -> creativity is your limit
+
+---
+
+## Day 017 - 20210217
+### Progress
+- Intermediate Algo cont. (#freeCodeCamp)
+- topic covered : Pig Latin (yes that's pretty much it)
+### Thoughts
+- had a really hard time until found the effective solution for Pig Latin
+- gain more knowledge even from the problem title only
+- string+array manipulation plays big role in almost every problem (so far)
+- mastering regex would be **so** beneficial / worth it
